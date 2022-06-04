@@ -1,4 +1,4 @@
 # projeto-android
 Projeto Android com Curso em Vídeo
 
-<a href="https://davidmateusreis.github.io/projeto-android/">Projeto Android</a>
+Sinta se a vontade para acessar o <a href="https://davidmateusreis.github.io/projeto-android/">Projeto Android</a>.
